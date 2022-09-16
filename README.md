@@ -72,3 +72,8 @@ Dentro do download você encontrará os seguintes diretórios e arquivos:
 │       └── styleUtils.js
 └── yarn.lock
 ```
+
+## Rodando o projeto:
+
+- Apos clonar o projeto rode o comando ``` npm install ```
+- Depois da instalaçao das dependencias rode o comando ``` npm start ```
